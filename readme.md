@@ -27,8 +27,6 @@ A proposta desse projeto é desenvolver alguns casos de testes para mostrar meus
  - Case que verfica se o email foi inserido corretamente;
  - Case que verifica se os campos obrigatórios estão apresentando a mensagem de alerta de campo obrigatório.
 
-- ...
-
 <div id='tecnologias'/>
  
  ## 🛠 Tecnologias utilizadas 
