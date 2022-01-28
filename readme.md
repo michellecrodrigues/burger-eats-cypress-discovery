@@ -1,27 +1,24 @@
-<p align="center">
-<img src='https://github.com/janainasantana/luiza-code-omni-channel/blob/feature/53/img/Banner-LuizaCode-NodeManas.gif' title="Banner">
-</p>
 
 ># 🏪 Projeto do curso QaNinja
 
 ## índice
 
 * [Introdução](#introducao)<br>
-* [Cases](#Cases)
+* [Cases](#cases)
 * [Tecnologias Utilizadas](#tecnologias)
 * [Aplicação](#aplicacao)
-* [Analista de testes](#Qa)
+
 
 
 ---
 
-<div id='proposta'/>
+<div id='introducao'/>
 
 ## 📝 Introdução 
 Este é um repositório referente ao curso QAninja - cypress discovery.<br>
 A proposta desse projeto é desenvolver alguns casos de testes para mostrar meus conhecimentos adquiridos durante o curso.
 
-<div id='objetivo'/>
+<div id='cases'/>
  
  ### 🎯 Cases
  
@@ -83,14 +80,13 @@ npx cypress open
 
 Após esse comando o servidor a ide do cypress será apresentada com as cases de testes diponíveis
   
-<div id='Qa'/> 
+- ...
 
-## 👨‍👩‍👧‍👦 Analista de testes 
 
  <table>
     <tbody>
         <tr>
-        <!--Michele Passos-->      
+               <!--Michele Passos-->      
             <td align="center">
                 <a href="https://github.com/michellecrodrigues">
                     <img src="https://avatars.githubusercontent.com/u/88988287?v=4" width="100px;" alt="Foto da Michele Passos no Github" style="max-width:100%;">
