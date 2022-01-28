@@ -1,6 +1,6 @@
+<h1>
 
 Projeto do curso QaNinja
-<h1>
 <p>
 npm install cypress --save-dev
 <p>	
