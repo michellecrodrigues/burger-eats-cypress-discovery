@@ -83,24 +83,3 @@ Após esse comando o servidor a ide do cypress será apresentada com as cases de
 - ...
 
 
- <table>
-    <tbody>
-        <tr>
-               <!--Michele Passos-->      
-            <td align="center">
-                <a href="https://github.com/michellecrodrigues">
-                    <img src="https://avatars.githubusercontent.com/u/88988287?v=4" width="100px;" alt="Foto da Michele Passos no Github" style="max-width:100%;">
-                </a><br><br>
-                <b>Michele Passos</b><br>
-                <a href="https://github.com/michellecrodrigues">
-                    <img src="https://ssoucie.github.io/images/giticon2.png" width="27px">
-                </a>
-                <a href="https://www.linkedin.com/in/michelle-rodrigues-passos-17070131/">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="27px">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
