@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Michelle Passos",
+        "cpf": "65877838059",
+        "email": "teste@gmail.com",
+        "whatsapp": "21888888888",
+        "address": {
+            "postalcode": "25060290",
+            "street": "Rua Benfica",
+            "number": "n/a",
+            "details": "Atrás de tu",
+            "district": "Vila Leopoldina",
+            "city_state": "Duque de Caxias/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Jordão Emerson",
+        "cpf": "c58778380aa",
+        "email": "outro@gmail.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "25060290",
+            "street": "Rua Benfica",
+            "number": "n/a",
+            "details": "Atrás de tu",
+            "district": "Vila Leopoldina",
+            "city_state": "Duque de Caxias/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "João das dores",
+        "cpf": "65877838059",
+        "email": "teste.com.br",
+        "whatsapp": "21888888288",
+        "address": {
+            "postalcode": "25060290",
+            "street": "Rua Benfica",
+            "number": "n/a",
+            "details": "Atrás de tu",
+            "district": "Vila Leopoldina",
+            "city_state": "Duque de Caxias/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
